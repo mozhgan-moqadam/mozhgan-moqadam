@@ -1,6 +1,6 @@
 # Hi there, I'm Mozhgan Moghaddam 👋
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=LinkedIn&logoColor=0077B5&style=flat-square)](linkedin.com/in/mozhgan-moqadam)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=LinkedIn&logoColor=0077B5&style=flat-square)](https://linkedin.com/in/mozhgan-moqadam)
 [![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub&logoColor=181717&style=flat-square)](https://github.com/mozhgan-moqadam)
 
 ## Professional skills
